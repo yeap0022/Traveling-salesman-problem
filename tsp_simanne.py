@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Jul 19 13:47:55 2020
 
 @author: USER
 """
